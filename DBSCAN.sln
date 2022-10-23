@@ -18,6 +18,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DBSCAN.Test", "DBSCAN.Test\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DBSCAN.RBush", "DBSCAN.RBush\DBSCAN.RBush.csproj", "{F226E9AF-7FAB-44AE-9D39-1F3E91F9C747}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBSCAN.TESTS", "DBSCAN.TESTS\DBSCAN.TESTS.csproj", "{507837EE-A91C-4459-9F20-F9E21FCA358F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,6 +38,10 @@ Global
 		{F226E9AF-7FAB-44AE-9D39-1F3E91F9C747}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F226E9AF-7FAB-44AE-9D39-1F3E91F9C747}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F226E9AF-7FAB-44AE-9D39-1F3E91F9C747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{507837EE-A91C-4459-9F20-F9E21FCA358F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{507837EE-A91C-4459-9F20-F9E21FCA358F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{507837EE-A91C-4459-9F20-F9E21FCA358F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{507837EE-A91C-4459-9F20-F9E21FCA358F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
